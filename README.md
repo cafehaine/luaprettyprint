@@ -1,3 +1,7 @@
+# Unmaintained project!
+
+I might take another stab at this, but at the moment I no longer plan on developing this.
+
 # luaprettyprint
 ## What's this ?
 luaprettyprint is a simple and small library to pretty print tables in lua.
